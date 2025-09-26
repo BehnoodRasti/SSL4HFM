@@ -27,7 +27,7 @@ TBD
 
 ### Using `conda`
 
-We recommend using a `conda` virtual Python environment to install HySUPP.
+We recommend using a `conda` virtual Python environment to install SSL4HFM.
 
 In the following steps we will use `conda` to handle the Python distribution and `pip` to install the required Python packages.
 If you do not have `conda`, please install it using [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
