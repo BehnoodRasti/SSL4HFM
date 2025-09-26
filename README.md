@@ -10,7 +10,7 @@ SSL4HFM is an open-source Python/PyTorch toolbox for Pretraining Hyperspectral F
 
 ## SSL4HFM Key Features (will be updated)
 
-* Models: MAE: Mased Autoencoders, SimMIM: Simple Masked Image Modeling, SatMAE: MAE for Temporal and Multi-Spectral Satellite Imagery, AIM: Autoregressive Image modeling
+* Models: MAE: Mased Autoencoders, SimMIM: Simple Masked Image Modeling, SatMAE: MAE for Temporal and Multi-Spectral Satellite Imagery, AIM: Autoregressive Image Modeling
 * metrics: PSNR, SAD, SSIM, MSE
 * Losses: MSE, SAD, SSIM, Group MSE, L1_L2
 * Datasets: hyspecnet, SpectralEarth
@@ -19,7 +19,7 @@ SSL4HFM is an open-source Python/PyTorch toolbox for Pretraining Hyperspectral F
 
 HySUPP is distributed under MIT license.
 
-## Citing HySUPP
+## Citing SSL4HFM
 
 TBD
 
