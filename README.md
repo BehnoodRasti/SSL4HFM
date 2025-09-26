@@ -65,7 +65,7 @@ Check the arguments in train_srun and pass the desired ones for your training
 sbatch train_srun.sh
 ```
 
-If you dont use slurm
+If you don't use Slurm
 
 ```shell
 sbatch train.sh
