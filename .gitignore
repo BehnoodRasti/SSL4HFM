@@ -18,7 +18,6 @@ utils/__pycache__/log.cpython-39.pyc
 nohupaim2.out
 nohupaim3.out
 datasets/spectral_earth/
-train_srun.sh
 *.pyc
 /__pycache__/
 **/__pycache__/
