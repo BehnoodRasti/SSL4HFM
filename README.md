@@ -68,5 +68,5 @@ sbatch train_srun.sh
 If you don't use Slurm
 
 ```shell
-sbatch train.sh
+sh train.sh
 ```
