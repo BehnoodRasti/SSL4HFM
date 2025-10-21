@@ -15,7 +15,7 @@ NUM_WORKERS=8
 
 MODE=easy
 
-MODEL=mae_vca
+MODEL=mae
 mr=0.75
 
 TRAIN_BATCH_SIZE=64
