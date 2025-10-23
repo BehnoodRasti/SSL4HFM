@@ -17,7 +17,7 @@ SSL4HFM is an open-source Python/PyTorch toolbox for Pretraining Hyperspectral F
 
 ## License
 
-HySUPP is distributed under MIT license.
+SSL4HFM is distributed under MIT license.
 
 ## Citing SSL4HFM
 
